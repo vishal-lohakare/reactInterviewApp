@@ -1,0 +1,210 @@
+@mixin font {
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: normal;
+}
+
+body {
+    button, input, optgroup, select, textarea {
+        @include font;
+    }
+
+    @include font;
+
+    font-size: 100%;
+    color: #000;
+    line-height: 1.0em;
+    background-color: #f0f0f0 !important;
+}
+
+body, table, td, tr, div, input, form, textarea, select {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.0em;
+}
+
+.container {
+    &.main {
+        background: #fff;
+        padding: 20px 60px 40px;
+        border: solid 1px #ccc;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        min-width: 1375px;
+    }
+}
+
+table.table {
+    &.table-bordered {
+        th {
+            background: #f0f0f0;
+            text-transform: uppercase;
+            padding: 8px 5px 8px 5px;
+
+            .text-filter {
+                padding: 5px;
+            }
+
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        td {
+            vertical-align: middle;
+        }
+
+        .react-bs-table-no-data {
+            height: 100px;
+        }
+    }
+}
+
+.na-style {
+    color: #ccc;
+}
+
+.candidateName {
+    font-weight: 600;
+}
+
+.score_style {
+    font-weight: 500;
+    font-size: 14px;
+}
+
+h1 {
+    &.heading {
+        font-family: 'Roboto', sans-serif;
+        font-size: 36px;
+        font-weight: 300;
+        color: #004bbc;
+    }
+}
+
+.rejected {
+    color: #d20000;
+    .fas {
+        padding-right: 5px;
+    }
+}
+
+.selected {
+    color: #2f6a00;
+    .fas {
+        padding-right: 5px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    h1 {
+        &.heading {
+            text-align: center;
+            font-size: 30px;
+        }
+    }
+
+    .container {
+        &.main {
+            background: #fff;
+            padding: 20px 40px 40px;
+            min-width: 320px;
+        }
+    }
+
+    /* Force table to not be like tables anymore */
+    table, thead, tbody, th, td, tr {
+        display: block;
+        cursor: pointer;
+    }
+
+    /* Hide table headers (but not display: none;, for accessibility) */
+    thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+
+    table.table-bordered {
+        border: none;
+    }
+
+    tr {
+        border: 1px solid #ccc;
+        margin-bottom: 20px;
+    }
+
+    td {
+        /* Behave  like a "row" */
+        border: none !important;
+        border-bottom: 1px solid #ccc !important;
+        position: relative;
+        padding-left: 50% !important;
+        .noData {
+            text-transform: uppercase;
+        }
+    }
+
+    td:before {
+        /* Now like a table header */
+        position: absolute;
+
+        /* Top/left values mimic padding */
+        top: 0px;
+        left: 0px;
+        width: 45%;
+        padding: 6px 8px 0px 4px;
+        white-space: nowrap;
+        font-weight: bold;
+        height: 100%;
+        border-right: solid 1px #ccc;
+        background: #fff;
+    }
+
+    .react-bs-table-no-data {
+        padding-top: 40px !important;
+        margin-left: -50%;
+        border-bottom: none !important;
+    }
+
+    td:not(.react-bs-table-no-data):nth-of-type(1):before {
+        content: "Candidate Name:";
+    }
+
+    td:nth-of-type(2):before {
+        content: "Experience:";
+    }
+
+    td:nth-of-type(3):before {
+        content: "Test Score:";
+    }
+
+    td:nth-of-type(4):before {
+        content: "Test Status:";
+    }
+
+    td:nth-of-type(5):before {
+        content: "L1 Score:";
+    }
+
+    td:nth-of-type(6):before {
+        content: "L1 Status:";
+    }
+
+    td:nth-of-type(7):before {
+        content: "GK Score:";
+    }
+
+    td:nth-of-type(8):before {
+        content: "GK Status:";
+    }
+
+    td:nth-of-type(9):before {
+        content: "Final Status:";
+    }
+
+    td:nth-of-type(10):before {
+        content: "Seniority:";
+    }
+
+    /*
+    Label the data
+    */
+}

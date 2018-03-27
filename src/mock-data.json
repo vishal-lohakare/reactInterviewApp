@@ -1,0 +1,509 @@
+{
+  "totalRecords": 20,
+  "handler": "Sunayana",
+  "language": "en_US",
+  "location": "Pune",
+  "recordsPerPage": 10,
+  "data": [
+    {
+      "name": "Noah",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Noah@gmail.com",
+      "experience": 4.5,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 2
+      },
+      "l1Details": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Liam",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Liam@gmail.com",
+      "experience": 2.5,
+      "testDetails": {
+        "startTime": "2018-03-11 11:50:00",
+        "endTime": "2018-03-11 12:50:00",
+        "score": 3
+      },
+      "l1Details": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Mason",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Mason@gmail.com",
+      "experience": 4,
+      "testDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "l1Details": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Jacob",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Jacob@gmail.com",
+      "experience": 7,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3.2
+      },
+      "l1Details": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "William",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "William@gmail.com",
+      "experience": 5.5,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 5
+      },
+      "l1Details": {
+        "startTime": "2018-03-25 09:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3.8
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Ethan",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Ethan@gmail.com",
+      "experience": 1.5,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3
+      },
+      "l1Details": {
+        "startTime": "2018-03-25 16:50:00",
+        "endTime": "2018-03-25 17:50:00",
+        "score": 2
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "James",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "James@gmail.com",
+      "experience": 8,
+      "testDetails": {
+        "startTime": "2018-04-16 11:50:00",
+        "endTime": "2018-04-16 12:50:00",
+        "score": 4.2
+      },
+      "l1Details": {
+        "startTime": "2018-04-17 11:50:00",
+        "endTime": "2018-04-17 12:50:00",
+        "score": 3.8
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Alexander",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Alexander@gmail.com",
+      "experience": 3.5,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 5
+      },
+      "l1Details": {
+        "startTime": "2018-03-25 13:50:00",
+        "endTime": "2018-03-25 14:50:00",
+        "score": 3
+      },
+      "gkDetails": {
+        "startTime": "2018-03-25 15:00:00",
+        "endTime": "2018-03-25 17:00:00",
+        "score": 2
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Benjamin",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Benjamin@gmail.com",
+      "experience": 10,
+      "testDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "l1Details": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Elijah",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Elijah@gmail.com",
+      "experience": 4,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3
+      },
+      "l1Details": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Emma",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Emma@gmail.com",
+      "experience": 4.5,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3
+      },
+      "l1Details": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Olivia",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Olivia@gmail.com",
+      "experience": 4.5,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3
+      },
+      "l1Details": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Sophia",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Sophia@gmail.com",
+      "experience": 4,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3.5
+      },
+      "l1Details": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Isabella",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Isabella@gmail.com",
+      "experience": 4,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3
+      },
+      "l1Details": {
+        "startTime": "2018-03-25 13:00:00",
+        "endTime": "2018-03-25 13:50:00",
+        "score": 3
+      },
+      "gkDetails": {
+        "startTime": "2018-03-25 14:00:00",
+        "endTime": "2018-03-25 16:50:00",
+        "score": 4
+      },
+      "finalResult": {
+        "status": "GK Selected",
+        "seniority": "TD"
+      }
+    },
+    {
+      "name": "Ava",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Ava@gmail.com",
+      "experience": 4,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3
+      },
+      "l1Details": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Mia",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Mia@gmail.com",
+      "experience": 4.5,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 10
+      },
+      "l1Details": {
+        "startTime": "2018-03-25 21:50:00",
+        "endTime": "",
+        "score": null
+      },
+      "gkDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Abigail",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Abigail@gmail.com",
+      "experience": 4.5,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3
+      },
+      "l1Details": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3
+      },
+      "gkDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 13:50:00",
+        "score": 3
+      },
+      "finalResult": {
+        "status": "GK Selected",
+        "seniority": "SR"
+      }
+    },
+    {
+      "name": "Emily",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Emily@gmail.com",
+      "experience": 4,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3.5
+      },
+      "l1Details": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Harper",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Harper@gmail.com",
+      "experience": 4,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 2
+      },
+      "l1Details": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    },
+    {
+      "name": "Elizabeth",
+      "resumeLink": "https://docs.google.com/spreadsheets/d/1vIVhF90yya4XFKEMu1EMyKnSScbe-qus8F1-Tub0awE/edit#gid=0",
+      "emailId": "Elizabeth@gmail.com",
+      "experience": 4,
+      "testDetails": {
+        "startTime": "2018-03-25 11:50:00",
+        "endTime": "2018-03-25 12:50:00",
+        "score": 3
+      },
+      "l1Details": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "gkDetails": {
+        "startTime": "",
+        "endTime": "",
+        "score": null
+      },
+      "finalResult": {
+        "status": "",
+        "seniority": ""
+      }
+    }
+  ]
+}
